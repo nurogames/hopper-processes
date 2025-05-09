@@ -1,0 +1,21 @@
+{
+  "name": "com.nuro.processes",
+  "version": "1.0.0",
+  "displayName": "Processes",
+  "description": "Package that provides a process system",
+  "unity": "2022.3",
+  "unityRelease": "3f1",
+  "keywords": [
+    "Process",
+    "Processes",
+    "VR",
+    "VRWeb"
+  ],
+  "author": {
+    "name": "Nuro",
+    "email": "info@nuromedia.com",
+    "url": "https://www.nuromedia.com"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
